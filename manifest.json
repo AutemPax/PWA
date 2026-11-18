@@ -1,0 +1,23 @@
+
+{
+    "short_name": "Motor'sHub",
+    "name": "Motor'sHub - Comunidad Automotriz",
+    "start_url": "index.html",
+    "background_color": "#ffffff",
+    "theme_color": "#1e1e1e",
+    "display": "standalone",
+    "orientation": "portrait",
+
+    "icons": [
+        {
+            "src": "./img/icons/icon-192x192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "./img/icons/icon-512x512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ]
+}
